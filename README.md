@@ -1,2 +1,1 @@
-# rusiaparatodos
-rusiaparatodos.com
+RusiaParaTodos.com website
